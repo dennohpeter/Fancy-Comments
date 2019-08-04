@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+/*========================${1/./=/g}
+*            ${1:Header comment}            *
+========================${1/./=/g}*/
+
+$2
+
+]]></content>
+	<tabTrigger>c-header</tabTrigger>
+	<scope>source.css, source.scss, source.sass</scope>
+	<description>Section Header Comment</description>
+</snippet>
