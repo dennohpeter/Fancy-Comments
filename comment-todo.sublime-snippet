@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+/**
+
+	# TODO:
+	- ${1:First todo }
+	- ${2:Second todo }
+	- ${3:Third todo }
+ */
+
+]]></content>
+	<tabTrigger>c-todo</tabTrigger>
+	<scope>source.css, source.scss, source.sass</scope>
+	<description>Todo Comment</description>
+</snippet>
