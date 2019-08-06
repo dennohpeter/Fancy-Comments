@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 /*========================${1/./=/g}
-*            ${1:Header comment}            *
+*            ${1:header comment}            *
 ========================${1/./=/g}*/
 
 $2
