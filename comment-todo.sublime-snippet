@@ -3,9 +3,9 @@
 /**
 
 	# TODO:
-	- ${1:First todo }
-	- ${2:Second todo }
-	- ${3:Third todo }
+	1: ${1:First todo }
+	2: ${2:Second todo }
+	3: ${3:Third todo }
  */
 
 ]]></content>
