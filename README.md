@@ -67,5 +67,5 @@
 <li>Create your feature branch: <code>git checkout -b my-new-comment-style</code></li>
 <li>Commit your changes: <code>git commit -m "Added new comment style..."</code></li>
 <li>Push to the branch: <code>git push origin my-new-comment-style </code></li>
-<li>Submit a pull request  :)</li>
+<li>Submit your pull request and wait :relaxed:.</li>
 </ol>
