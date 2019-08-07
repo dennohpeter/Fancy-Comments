@@ -32,6 +32,16 @@
 </code></pre>
 </div>
 <div>
+<h2>Full Section Comment</h2>
+  <p><strong>trigger:</strong> c-section <strong>tab</strong></p>
+<pre><span><span>/*</span>=============================================</span>
+<span>*            Section comment block            *</span>
+<span>=============================================<span>*/</span></span>
+<br>
+<br>
+<p><span>/*</span>=====  End of Section comment block  ======<span>*/</span></p></pre>
+</div>
+<div>
 <h2>Subsection Comment</h2>
   <p><strong>trigger:</strong> c-sub= <strong>tab</strong></p>
   <pre><code>/* comment
