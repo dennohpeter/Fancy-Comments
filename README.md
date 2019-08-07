@@ -80,3 +80,5 @@
 <li>Push to the branch: <code>git push origin my-new-comment-style </code></li>
 <li>Submit your pull request and wait :relaxed:.</li>
 </ol>
+<h2>LICENCE</h2>
+<p><a href="https://dennohpeter.mit-license.org/" rel="nofollow">MIT License</a> © Dennis Peterson</p>
