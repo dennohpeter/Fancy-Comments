@@ -2,6 +2,7 @@
 <p><strong>Comment Your Css Like a Pro!!!</strong> :ok_hand: </p>
 <p>Works for CSS, SCSS & SASS. </p>
 <p>To <strong>trigger</strong> a comment put a <strong>c-</strong> followed by it's name, as shown below: :point_down:</p>
+![](preview.gif)
 <div>
 <h2>Basic Comment</h2>
   <p><strong>trigger:</strong> c-basic <strong>tab</strong></p>
