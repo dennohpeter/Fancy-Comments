@@ -1,12 +1,12 @@
 <snippet>
 	<content><![CDATA[
 /*========================${1/./=/g}
-*            ${1:header comment}            *
+*            ${1:Section comment block }            *
 ========================${1/./=/g}*/
 
 $2
 
-/*==================  ${3:footer comment}  ==================*/
+/*=====  End of ${1:Section comment block}  ======*/
 
 ]]></content>
 	<tabTrigger>c-section</tabTrigger>
