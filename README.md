@@ -32,7 +32,7 @@
 </code></pre>
 </div>
 <div>
-<h2>Full Section Comment</h2>
+<h2>Section Comment</h2>
   <p><strong>trigger:</strong> c-section <strong>tab</strong></p>
 <pre><span><span>/*</span>=============================================</span>
 <span>*            Section comment block            *</span>
